@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 561897fb4a04a264dad434d3e0389331
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8258678921025275971
+    second: bitRushBerserk-Photoroom_0
+  - first:
+      213: 4688533671262957302
+    second: bitRushBerserk-Photoroom_1
+  - first:
+      213: 5671424359574226930
+    second: bitRushBerserk-Photoroom_2
+  - first:
+      213: -1875577063045448073
+    second: bitRushBerserk-Photoroom_3
+  - first:
+      213: -1828471947505862874
+    second: bitRushBerserk-Photoroom_4
+  - first:
+      213: -2237639641161805284
+    second: bitRushBerserk-Photoroom_5
+  - first:
+      213: 7083026848766405150
+    second: bitRushBerserk-Photoroom_6
+  - first:
+      213: -2785115081105579449
+    second: bitRushBerserk-Photoroom_7
+  - first:
+      213: 3788857377449645431
+    second: bitRushBerserk-Photoroom_8
+  - first:
+      213: 2322519754582424351
+    second: bitRushBerserk-Photoroom_9
+  - first:
+      213: 1704633076965961208
+    second: bitRushBerserk-Photoroom_10
+  - first:
+      213: -3876527378289891110
+    second: bitRushBerserk-Photoroom_11
+  - first:
+      213: 207134645490811325
+    second: bitRushBerserk-Photoroom_12
+  - first:
+      213: 343030848594980353
+    second: bitRushBerserk-Photoroom_13
+  - first:
+      213: 6830740398184518076
+    second: bitRushBerserk-Photoroom_14
+  - first:
+      213: -7439277857288787388
+    second: bitRushBerserk-Photoroom_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bitRushBerserk-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 422
+        width: 282
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348c7b9e8b8bc9270800000000000000
+      internalID: 8258678921025275971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitRushBerserk-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 422
+        width: 392
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe26197884011140800000000000000
+      internalID: 4688533671262957302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitRushBerserk-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 53
+        width: 255
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa6473467fb4260800000000000000
+      internalID: 7083026848766405150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitRushBerserk-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 289
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdefe080c218a710800000000000000
+      internalID: 1704633076965961208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitRushBerserk-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 41
+        width: 431
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad864fe53eec33ac0800000000000000
+      internalID: -3876527378289891110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be19f0cc2bd362041870f62fbf118407
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bitRushBerserk-Photoroom_0: 8258678921025275971
+      bitRushBerserk-Photoroom_1: 4688533671262957302
+      bitRushBerserk-Photoroom_10: 1704633076965961208
+      bitRushBerserk-Photoroom_11: -3876527378289891110
+      bitRushBerserk-Photoroom_12: 207134645490811325
+      bitRushBerserk-Photoroom_13: 343030848594980353
+      bitRushBerserk-Photoroom_14: 6830740398184518076
+      bitRushBerserk-Photoroom_15: -7439277857288787388
+      bitRushBerserk-Photoroom_2: 5671424359574226930
+      bitRushBerserk-Photoroom_3: -1875577063045448073
+      bitRushBerserk-Photoroom_4: -1828471947505862874
+      bitRushBerserk-Photoroom_5: -2237639641161805284
+      bitRushBerserk-Photoroom_6: 7083026848766405150
+      bitRushBerserk-Photoroom_7: -2785115081105579449
+      bitRushBerserk-Photoroom_8: 3788857377449645431
+      bitRushBerserk-Photoroom_9: 2322519754582424351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

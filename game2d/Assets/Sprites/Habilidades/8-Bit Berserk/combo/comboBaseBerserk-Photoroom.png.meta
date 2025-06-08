@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 288ca3198c0da384f8998fe8862fba72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 17131293508042901
+    second: comboBaseBerserk-Photoroom_0
+  - first:
+      213: 7143484930705212693
+    second: comboBaseBerserk-Photoroom_1
+  - first:
+      213: -1187131878683562286
+    second: comboBaseBerserk-Photoroom_2
+  - first:
+      213: 4477519467260513216
+    second: comboBaseBerserk-Photoroom_3
+  - first:
+      213: -8181410699448132357
+    second: comboBaseBerserk-Photoroom_4
+  - first:
+      213: 3576197654559546612
+    second: comboBaseBerserk-Photoroom_5
+  - first:
+      213: 7817119196819234686
+    second: comboBaseBerserk-Photoroom_6
+  - first:
+      213: -4852063969318727391
+    second: comboBaseBerserk-Photoroom_7
+  - first:
+      213: 8936221738383128560
+    second: comboBaseBerserk-Photoroom_8
+  - first:
+      213: -5561800475882946862
+    second: comboBaseBerserk-Photoroom_9
+  - first:
+      213: 7165485814314912902
+    second: comboBaseBerserk-Photoroom_10
+  - first:
+      213: -946890773848113351
+    second: comboBaseBerserk-Photoroom_11
+  - first:
+      213: 8139107278607237913
+    second: comboBaseBerserk-Photoroom_12
+  - first:
+      213: 7110503165254085127
+    second: comboBaseBerserk-Photoroom_13
+  - first:
+      213: 5714593483537271770
+    second: comboBaseBerserk-Photoroom_14
+  - first:
+      213: 1111334665034847118
+    second: comboBaseBerserk-Photoroom_15
+  - first:
+      213: -8972103926328808428
+    second: comboBaseBerserk-Photoroom_16
+  - first:
+      213: -2653459773364585614
+    second: comboBaseBerserk-Photoroom_17
+  - first:
+      213: 187514947826865428
+    second: comboBaseBerserk-Photoroom_18
+  - first:
+      213: 167162449800943517
+    second: comboBaseBerserk-Photoroom_19
+  - first:
+      213: -7048580287001232550
+    second: comboBaseBerserk-Photoroom_20
+  - first:
+      213: 3156029860355421805
+    second: comboBaseBerserk-Photoroom_21
+  - first:
+      213: -5067000806693693025
+    second: comboBaseBerserk-Photoroom_22
+  - first:
+      213: 6534452545882738952
+    second: comboBaseBerserk-Photoroom_23
+  - first:
+      213: 5106113486018618383
+    second: comboBaseBerserk-Photoroom_24
+  - first:
+      213: 9153316714417492977
+    second: comboBaseBerserk-Photoroom_25
+  - first:
+      213: -2724304451855971540
+    second: comboBaseBerserk-Photoroom_26
+  - first:
+      213: -8803245010566963448
+    second: comboBaseBerserk-Photoroom_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: comboBaseBerserk-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 402
+        width: 312
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590071812dcdc3000800000000000000
+      internalID: 17131293508042901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comboBaseBerserk-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 402
+        width: 429
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154a0952b1c22360800000000000000
+      internalID: 7143484930705212693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comboBaseBerserk-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 403
+        width: 403
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb85f88b38532e30800000000000000
+      internalID: 4477519467260513216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comboBaseBerserk-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 370
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b207cf687ccb20800000000000000
+      internalID: 3156029860355421805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comboBaseBerserk-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 24
+        width: 462
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801dcfe28f90faa50800000000000000
+      internalID: 6534452545882738952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comboBaseBerserk-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 28
+        width: 366
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04a8f4892f8cd640800000000000000
+      internalID: 5106113486018618383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 66ffef7fd0b127b4ba5df362ca9e0f92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      comboBaseBerserk-Photoroom_0: 17131293508042901
+      comboBaseBerserk-Photoroom_1: 7143484930705212693
+      comboBaseBerserk-Photoroom_10: 7165485814314912902
+      comboBaseBerserk-Photoroom_11: -946890773848113351
+      comboBaseBerserk-Photoroom_12: 8139107278607237913
+      comboBaseBerserk-Photoroom_13: 7110503165254085127
+      comboBaseBerserk-Photoroom_14: 5714593483537271770
+      comboBaseBerserk-Photoroom_15: 1111334665034847118
+      comboBaseBerserk-Photoroom_16: -8972103926328808428
+      comboBaseBerserk-Photoroom_17: -2653459773364585614
+      comboBaseBerserk-Photoroom_18: 187514947826865428
+      comboBaseBerserk-Photoroom_19: 167162449800943517
+      comboBaseBerserk-Photoroom_2: -1187131878683562286
+      comboBaseBerserk-Photoroom_20: -7048580287001232550
+      comboBaseBerserk-Photoroom_21: 3156029860355421805
+      comboBaseBerserk-Photoroom_22: -5067000806693693025
+      comboBaseBerserk-Photoroom_23: 6534452545882738952
+      comboBaseBerserk-Photoroom_24: 5106113486018618383
+      comboBaseBerserk-Photoroom_25: 9153316714417492977
+      comboBaseBerserk-Photoroom_26: -2724304451855971540
+      comboBaseBerserk-Photoroom_27: -8803245010566963448
+      comboBaseBerserk-Photoroom_3: 4477519467260513216
+      comboBaseBerserk-Photoroom_4: -8181410699448132357
+      comboBaseBerserk-Photoroom_5: 3576197654559546612
+      comboBaseBerserk-Photoroom_6: 7817119196819234686
+      comboBaseBerserk-Photoroom_7: -4852063969318727391
+      comboBaseBerserk-Photoroom_8: 8936221738383128560
+      comboBaseBerserk-Photoroom_9: -5561800475882946862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
